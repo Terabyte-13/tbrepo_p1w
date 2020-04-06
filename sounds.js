@@ -1,6 +1,9 @@
 var sounds = {
   "fart" : {
     url : "fart_with_reverb.wav"
+  },
+  "fart2" : {
+    url : "snd_fart_2.wav"
   }
 };
 
